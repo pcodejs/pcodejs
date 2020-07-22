@@ -3,9 +3,6 @@
 👍 I'm Nguyễn Xuân Phú. I'm fresher Front-end Web Developer.  
 ❤️ I love Programming, making application/software for Mobile, Web and Desktop. It does feel amazing to see myself improving. Hope to improve everything around me one day...  
 
-📫 How to reach me:  <br />  
-[![Facebook](https://raw.githubusercontent.com/pcodejs/pcodejs/master/icon/facebook2.svg)](nguyenxuanphu.profile)  [![Linkedin](https://raw.githubusercontent.com/pcodejs/pcodejs/master/icon/linkedin2.svg)](https://www.linkedin.com/in/DungGramer/)
-  
 [![Stats](https://github-readme-stats.vercel.app/api?username=pcodejs)](https://github-readme-stats.vercel.app/api?username=pcodejs)  
 
 ## Knowledge
