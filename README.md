@@ -1,7 +1,6 @@
 ## Hi there 👋
   
 👍 I'm Nguyễn Xuân Phú. I'm fresher Front-end Web Developer.  
-❤️ I love Programming, making application/software for Mobile, Web and Desktop. It does feel amazing to see myself improving. Hope to improve everything around me one day...  
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=pcodejs)](https://github-readme-stats.vercel.app/api?username=pcodejs)  
 
@@ -16,7 +15,7 @@
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/pcodejs/)
 
 <!--
-**DungGramer/DungGramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pcodejs/pcodejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
