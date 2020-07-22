@@ -2,7 +2,7 @@
   
 👍 I'm Nguyễn Xuân Phú. I'm fresher Front-end Web Developer.  
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=pcodejs)](https://github-readme-stats.vercel.app/api?username=pcodejs)  
+[![Stats](https://github-readme-stats.vercel.app/api?username=pcodejsa)](https://github-readme-stats.vercel.app/api?username=pcodejs)  
 
 ## Knowledge
 **Languages**
